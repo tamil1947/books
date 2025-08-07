@@ -13,6 +13,9 @@
   --bggradient: linear-gradient(to bottom, #dd2476, #ff512f);
   --light-gray: rgba(255, 255, 255, 0.877);
 }
+body{
+    overflow: hidden;
+}
 .navbar{
  
   width: 100%;
@@ -450,4 +453,5 @@ footer .column i + i {
   .section-4 .carousel-inner {
     margin-left: -4vmin;
   }
+
 }
