@@ -14,7 +14,7 @@
   --light-gray: rgba(255, 255, 255, 0.877);
 }
 body{
-    overflow: hidden;
+    overflow-x: hidden;
 }
 .navbar{
  
@@ -455,3 +455,4 @@ footer .column i + i {
   }
 
 }
+
